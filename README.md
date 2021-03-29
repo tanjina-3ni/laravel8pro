@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About This Project (laravel8pro)
+This project is developed on purpose of learning Laravel v8.x. Which includes following - 
+
+- [Installation of Laravel v8.x](https://www.youtube.com/watch?v=RyYKXyvM3D4&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=1).
+- [Routing](https://www.youtube.com/watch?v=Du2yB9htD8k&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=2).
+- [Controllers](https://www.youtube.com/watch?v=d_tP_b543og&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=3).
+- [Views](https://www.youtube.com/watch?v=wYL6Ivd7N-0&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=4).
+- [Blade Components](https://www.youtube.com/watch?v=nvdwOF40hxA&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=5).
+- [...](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
