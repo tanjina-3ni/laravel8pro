@@ -6,14 +6,8 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $name = 'Tinni';
-        $users = array(
-            "name" => "Tanjina Rahman",
-            "email" => "xyz@gmail.com",
-            "phone" => "017********"
-        );
-        return view('user',compact('name','users'));
+        return $request->fullurl();
     }
 }
