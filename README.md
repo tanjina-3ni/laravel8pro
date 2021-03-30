@@ -13,4 +13,6 @@ This project is developed on purpose of learning Laravel v8.x. Which includes fo
 - [Form Validation](https://www.youtube.com/watch?v=QxLWqj2OH6g&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=10).
 - [Middleware](https://www.youtube.com/watch?v=YJsQStwMSdA&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=11).
 - [HTTP Session](https://www.youtube.com/watch?v=2XUOWzoLcXM&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=12).
+- [Database](https://www.youtube.com/watch?v=VjqS9LPPmIA&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=13).
+- [Database Query Builder and CRUD Operation](https://www.youtube.com/watch?v=-QsjnWW3K_g&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=14).
 - [...](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD).
