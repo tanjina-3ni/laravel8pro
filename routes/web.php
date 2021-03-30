@@ -7,6 +7,7 @@ use App\Http\Controllers\FluentController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\SessionController;
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -28,7 +29,7 @@ Route::get('/user',[UserController::class,'index'])->name('user.index');
 
 Route::get('/posts',[ClientController::class,'getAllPost'])->name('posts.getAllPost');
 
-Route::get('/posts/{id}',[ClientController::class,'getPostById'])->name('posts.getPostById'); 
+Route::get('/{id}/posts',[ClientController::class,'getPostById'])->name('posts.getJsonPostById'); 
 
 Route::get('/add-posts',[ClientController::class,'addPost'])->name('posts.addPost');
 
@@ -48,7 +49,16 @@ Route::get('/session/set',[SessionController::class,'storeSessionData'])->name('
 
 Route::get('/session/remove',[SessionController::class,'deleteSessionData'])->name('session.delete');
 
+Route::get('/posts',[PostController::class,'getAllPost'])->name('post.getAllPost');
 
+Route::get('/add-post',[PostController::class,'addpost'])->name('post.add');
 
+Route::post('/add-post',[PostController::class,'addPostSubmit'])->name('post.addSubmit');
 
+Route::get('/posts/{id}',[PostController::class,'getPostById'])->name('post.getPostById');
 
+Route::get('/delete-post/{id}',[PostController::class,'deletePostById'])->name('post.delete ');
+
+Route::get('/edit-post/{id}',[PostController::class,'editPost'])->name('post.edit');
+
+Route::post('/posts',[PostController::class,'updatePost'])->name('post.updatePost');
