@@ -15,4 +15,8 @@ This project is developed on purpose of learning Laravel v8.x. Which includes fo
 - [HTTP Session](https://www.youtube.com/watch?v=2XUOWzoLcXM&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=12).
 - [Database](https://www.youtube.com/watch?v=VjqS9LPPmIA&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=13).
 - [Database Query Builder and CRUD Operation](https://www.youtube.com/watch?v=-QsjnWW3K_g&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=14).
+- [Database Join Clauses](https://www.youtube.com/watch?v=aTziJqVaYEI&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=15).
+- [Model](https://www.youtube.com/watch?v=W3DkcX8V8-4&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=16).
+- [Migration](https://www.youtube.com/watch?v=Hr9rXaT8Jw0&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=17).
+- [Seedings](https://www.youtube.com/watch?v=yMOOmvUm-gE&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=18).
 - [...](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD).
