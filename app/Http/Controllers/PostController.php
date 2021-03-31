@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use App\Models\Post;
 
 class PostController extends Controller
 {
@@ -53,5 +54,35 @@ class PostController extends Controller
         ]);
         $posts = DB::table('posts')->get();
         return redirect(route('post.getAllPost'))->with('post_info','Post has been updated!');
+    }
+
+    public function innerJoinClause()
+    {
+        $request = DB::table('users')
+            ->join('posts', 'users.id','=','posts.user_id')
+            ->select('users.name','posts.title','posts.body')
+            ->get();
+        return $request;
+    
+    }
+    public function leftJoinClause()
+    {
+        $result = DB::table('users')
+                ->leftjoin('posts', 'users.id','=','posts.user_id')
+                ->get();
+        return $result;
+    }
+    public function rightJoinClause()
+    {
+        $res = DB::table('users')
+             ->rightjoin('posts', 'users.id','=','posts.user_id')
+             ->get();
+        return $res;
+    }
+
+    public function getAllPostsUsingModel()
+    {
+        $posts = Post::all();
+        return $posts;
     }
 }
