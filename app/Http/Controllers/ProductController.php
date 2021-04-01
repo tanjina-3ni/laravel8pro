@@ -8,7 +8,8 @@ class ProductController extends Controller
 {
     public function index()
     {
-        $fruits = array('Mango','Orange','Banana','Apple','Pineapple');
-        return view('welcome',compact('fruits'));
+        // $fruits = array('Mango','Orange','Banana','Apple','Pineapple');
+        // //return view('welcome',compact('fruits'));
+        // return "fruits";
     }
 }
