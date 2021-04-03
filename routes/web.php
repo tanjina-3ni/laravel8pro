@@ -12,6 +12,7 @@ use App\Http\Controllers\PaginationController;
 use App\Http\Controllers\UploadController;
 use Illuminate\Support\Facades\Route;
 use App\PaymentGateway\Payment;
+use App\Http\Controllers\MailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -110,6 +111,8 @@ Route::get('/payment',function()
     return Payment::process();
 });
 
+
+Route::get('/send-email',[MailController::class,'sendEmail']);
 
 
 
