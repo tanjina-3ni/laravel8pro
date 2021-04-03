@@ -26,4 +26,5 @@ This project is developed on purpose of learning Laravel v8.x. Which includes fo
 - [Localization](https://www.youtube.com/watch?v=yYU8KYBcANU&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=23).
 - [Facades](https://www.youtube.com/watch?v=ucMxfRi0MZ0&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=24).
 - [Custom 404 Page](https://www.youtube.com/watch?v=q8VB_-Kwjio&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=25).
+- [Send Email using Gmail](https://www.youtube.com/watch?v=kWEvrHVg8kI&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=26).
 - [...](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD).
