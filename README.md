@@ -19,4 +19,11 @@ This project is developed on purpose of learning Laravel v8.x. Which includes fo
 - [Model](https://www.youtube.com/watch?v=W3DkcX8V8-4&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=16).
 - [Migration](https://www.youtube.com/watch?v=Hr9rXaT8Jw0&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=17).
 - [Seedings](https://www.youtube.com/watch?v=yMOOmvUm-gE&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=18).
+- [Blade Template](https://www.youtube.com/watch?v=FLvWUd-bk30&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=19). 
+- [Blade Template Layout](https://www.youtube.com/watch?v=TopRrBdrQ4M&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=20).
+- [Pagination](https://www.youtube.com/watch?v=1mBbMQb1Kew&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=21).
+- [File Upload](https://www.youtube.com/watch?v=lSPmSMTpn9M&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=22).
+- [Localization](https://www.youtube.com/watch?v=yYU8KYBcANU&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=23).
+- [Facades](https://www.youtube.com/watch?v=ucMxfRi0MZ0&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=24).
+- [Custom 404 Page](https://www.youtube.com/watch?v=q8VB_-Kwjio&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&index=25).
 - [...](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD).
